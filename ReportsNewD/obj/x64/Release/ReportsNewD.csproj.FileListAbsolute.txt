@@ -1,0 +1,5 @@
+C:\Users\MG\source\repos\ReportsNewD\ReportsNewD\obj\x64\Release\ReportsNewD.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\ReportsNewD\ReportsNewD\obj\x64\Release\ReportsNewD.Form1.resources
+C:\Users\MG\source\repos\ReportsNewD\ReportsNewD\obj\x64\Release\ReportsNewD.Properties.Resources.resources
+C:\Users\MG\source\repos\ReportsNewD\ReportsNewD\obj\x64\Release\ReportsNewD.csproj.GenerateResource.cache
+C:\Users\MG\source\repos\ReportsNewD\ReportsNewD\obj\x64\Release\ReportsNewD.csproj.CoreCompileInputs.cache

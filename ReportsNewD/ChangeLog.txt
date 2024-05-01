@@ -1,0 +1,27 @@
+RV6 Version Changelog:
+
+- Updated all Sieves Calculations (Round, Pear, Marquise, Emerald 4Step).
+- Implemented checkbox default selection on form load.
+- Added draggable and minimize functionality to the form.
+- Introduced the ability to Save Sieves settings in a text file.
+- Updated the progress bar feature.
+- Optimized the code for improved performance.
+
+
+RV7 Version Changelog:
+
+- Range error while running program Fixed.
+- Missing Part Cell error Fixed (Part Error).
+- Missing Data CSV will be placed in 'Missing Entry' Folder.
+- Application Instance Fixed (While runing other excel file).
+- Fixed excel file name path.
+
+
+RV7.1 Version Changelog:
+
+- New UI with Optimization
+
+
+RV7.2 Version Changelog:
+
+- Added New CheckBox "Value Per Rough CT" for Calculating Value of Per Rough CT.
